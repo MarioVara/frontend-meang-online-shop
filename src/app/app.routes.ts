@@ -4,7 +4,7 @@ import { ContactComponent } from './@public/pages/contact/contact.component';
 import { HomeComponent } from './@public/pages/home/home.component';
 import { UsersComponent } from './@admin/pages/users/users.component';
 import { DashboardComponent } from './@admin/pages/dashboard/dashboard.component';
-import { AdminComponent } from './@admin/pages/admin.component';
+import { AdminComponent } from './@admin/admin.component';
 import { PublicComponent } from './@public/public.component';
 
 export const routes: Routes = [

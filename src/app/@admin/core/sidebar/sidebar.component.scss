@@ -1,0 +1,12 @@
+@import './../../../assets/styles/admin.scss';
+
+#sidebar-wrapper{
+    background-color: $admin-primary-color;
+}
+.list-group-item{
+    background-color: $admin-secondary-color;
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;    
+}
